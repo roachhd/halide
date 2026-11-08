@@ -34,7 +34,7 @@
     "eleventy-plugin-helmet": "^0.2.2",
     "html-minifier": "^4.0.0",
     "js-yaml": "^4.1.0",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^15.0.3",
     "netlify-plugin-11ty": "^1.5.0",
     "netlify-plugin-csp-generator": "^1.6.1",
     "tinacms": "^2.8.2",
